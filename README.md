@@ -13,6 +13,8 @@ Programming language --> Python
 
 Deep Learning Framework --> Fast.ai
 
+Image reading/writing --> Opencv
+
 other Python packages are like scipy, numpy, pandas etc.
 
 To achieve the same results you have to run each cell in the Jupyter Notebook.
